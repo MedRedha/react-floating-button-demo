@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-floating-button-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-floating-button-demo/static/js/main.a7203652.chunk.js",
+    "main.js.map": "/react-floating-button-demo/static/js/main.a7203652.chunk.js.map",
+    "runtime-main.js": "/react-floating-button-demo/static/js/runtime-main.4d138bdb.js",
+    "runtime-main.js.map": "/react-floating-button-demo/static/js/runtime-main.4d138bdb.js.map",
+    "static/js/2.d761b66c.chunk.js": "/react-floating-button-demo/static/js/2.d761b66c.chunk.js",
+    "static/js/2.d761b66c.chunk.js.map": "/react-floating-button-demo/static/js/2.d761b66c.chunk.js.map",
+    "index.html": "/react-floating-button-demo/index.html",
+    "precache-manifest.2c1b697c97f63218aea3c3e9b6c3f207.js": "/react-floating-button-demo/precache-manifest.2c1b697c97f63218aea3c3e9b6c3f207.js",
+    "service-worker.js": "/react-floating-button-demo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-floating-button-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d761b66c.chunk.js.LICENSE.txt": "/react-floating-button-demo/static/js/2.d761b66c.chunk.js.LICENSE.txt",
+    "static/media/DOWNLOAD.svg": "/react-floating-button-demo/static/media/DOWNLOAD.7e65f1ae.svg",
+    "static/media/FORWARD 2.svg": "/react-floating-button-demo/static/media/FORWARD 2.6f01845c.svg",
+    "static/media/GIFT.svg": "/react-floating-button-demo/static/media/GIFT.03d0b909.svg",
+    "static/media/GRID.svg": "/react-floating-button-demo/static/media/GRID.5a25150d.svg",
+    "static/media/HOME.svg": "/react-floating-button-demo/static/media/HOME.695748c1.svg",
+    "static/media/MAP PIN.svg": "/react-floating-button-demo/static/media/MAP PIN.cf396ce1.svg",
+    "static/media/MAP.svg": "/react-floating-button-demo/static/media/MAP.a4eb782b.svg",
+    "static/media/MUSIC.svg": "/react-floating-button-demo/static/media/MUSIC.e7f8db9c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d138bdb.js",
+    "static/js/2.d761b66c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a7203652.chunk.js"
+  ]
+}
