@@ -8,14 +8,14 @@
 </p>
 <p align="center">
 	<a href="https://wuud.net">
-		<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/na6im/awsome-floating-button/MasterDeployCI?label=Build">
+		<img alt="npm" src="https://img.shields.io/npm/dw/react-floating-button?color=yellow">
 	</a>
 	<a href="https://wuud.net">
 		<img alt="NPM" src="https://img.shields.io/npm/l/react?color=black">
-		<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/na6im/awsome-floating-button?color=red&label=Version">
-		<img alt="GitHub package.json dependency version" src="https://img.shields.io/github/package-json/dependency-version/na6im/awsome-floating-button/react">
-		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/na6im/awsome-floating-button?color=purple">
-		<img alt="Website" src="https://img.shields.io/website?down_color=Red&label=Website&style=flat-square&up_color=Yellow&up_message=Active&url=https%3A%2F%2Fna6im.github.io%2Fawsome-floating-button%2F">
+		<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/na6im/react-floating-button-demo?color=red&label=Version">
+		<img alt="GitHub package.json dependency version" src="https://img.shields.io/github/package-json/dependency-version/na6im/react-floating-button-demo/react">
+		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/na6im/react-floating-button-demo?color=purple">
+		<img alt="Website" src="https://img.shields.io/website?down_color=Red&label=Website&style=flat-square&up_color=Yellow&up_message=Active&url=https%3A%2F%2Fna6im.github.io%react-floating-button-demo%2F">
 	</a>
 </p>
 
@@ -116,10 +116,12 @@ $ yarn eject
 
 ## Contributing to The Project
 
-Contributing to the project is a piece of :cake:, read the [contributing guidelines](https://github.com/na6im/awsome-floating-button/blob/master/.github/CONTRIBUTING.md). You can discuss the project using the [issues section](https://github.com/na6im/awsome-floating-button/issues/new). To add a line create an issue and send a pull request, see [how to send a pull request](https://github.com/na6im/awsome-floating-button/blob/master/.github/CONTRIBUTING.md).
+Contributing to the project is a piece of :cake:, read the [contributing guidelines](https://github.com/na6im/react-floating-button-demo/blob/master/.github/CONTRIBUTING.md). You can discuss the project using the [issues section](https://github.com/na6im/react-floating-button-demo/issues/new). To add a line create an issue and send a pull request, see [how to send a pull request](https://github.com/na6im/react-floating-button-demo/blob/master/.github/CONTRIBUTING.md).
 
 ## License
 
-The code is available under the [MIT](https://github.com/na6im/awsome-floating-button/blob/master/LICENSE) license.
+The code is available under the [MIT](https://github.com/na6im/react-floating-button-demo/blob/master/LICENSE) license.
 
-###### [WuuD®](http://wuud.net/) - In code we trust -
+<p align="center">
+ <b>WuuD® - in code we trust -
+</p>
