@@ -8,6 +8,7 @@
 </p>
 <p align="center">
 	<a href="https://wuud.net">
+		<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/na6im/react-floating-button/Node.js Package?color=cyan&label=Build">
 		<img alt="npm" src="https://img.shields.io/npm/dw/react-floating-button?color=yellow">
 	</a>
 	<a href="https://wuud.net">
